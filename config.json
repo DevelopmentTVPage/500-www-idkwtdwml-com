@@ -1,0 +1,15 @@
+{
+    "title": "DUPLICATE CHANNEL CHECK",
+    "baseURL": "https:\/\/www.idkwtdwml.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758397",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "idkwtdwml.com"
+    }
+}
